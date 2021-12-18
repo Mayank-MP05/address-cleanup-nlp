@@ -1,0 +1,542 @@
+{
+    "states": [
+        {
+            "abbr": "AP",
+            "fullForm": "Andhra Pradesh",
+            "tokensList": [
+                "andhra",
+                "pradesh"
+            ]
+        },
+        {
+            "abbr": "AR",
+            "fullForm": "Arunachal Pradesh",
+            "tokensList": [
+                "arunachal",
+                "pradesh"
+            ]
+        },
+        {
+            "abbr": "AS",
+            "fullForm": "Assam",
+            "tokensList": [
+                "assam"
+            ]
+        },
+        {
+            "abbr": "BR",
+            "fullForm": "Bihar",
+            "tokensList": [
+                "bihar"
+            ]
+        },
+        {
+            "abbr": "CT",
+            "fullForm": "Chhattisgarh",
+            "tokensList": [
+                "chhattisgarh"
+            ]
+        },
+        {
+            "abbr": "GA",
+            "fullForm": "Goa",
+            "tokensList": [
+                "goa"
+            ]
+        },
+        {
+            "abbr": "GJ",
+            "fullForm": "Gujarat",
+            "tokensList": [
+                "gujarat"
+            ]
+        },
+        {
+            "abbr": "HR",
+            "fullForm": "Haryana",
+            "tokensList": [
+                "haryana"
+            ]
+        },
+        {
+            "abbr": "HP",
+            "fullForm": "Himachal Pradesh",
+            "tokensList": [
+                "himachal",
+                "pradesh"
+            ]
+        },
+        {
+            "abbr": "JK",
+            "fullForm": "Jammu and Kashmir",
+            "tokensList": [
+                "jammu",
+                "and",
+                "kashmir"
+            ]
+        },
+        {
+            "abbr": "JH",
+            "fullForm": "Jharkhand",
+            "tokensList": [
+                "jharkhand"
+            ]
+        },
+        {
+            "abbr": "KA",
+            "fullForm": "Karnataka",
+            "tokensList": [
+                "karnataka"
+            ]
+        },
+        {
+            "abbr": "KL",
+            "fullForm": "Kerala",
+            "tokensList": [
+                "kerala"
+            ]
+        },
+        {
+            "abbr": "MP",
+            "fullForm": "Madhya Pradesh",
+            "tokensList": [
+                "madhya",
+                "pradesh"
+            ]
+        },
+        {
+            "abbr": "MH",
+            "fullForm": "Maharashtra",
+            "tokensList": [
+                "maharashtra"
+            ]
+        },
+        {
+            "abbr": "MN",
+            "fullForm": "Manipur",
+            "tokensList": [
+                "manipur"
+            ]
+        },
+        {
+            "abbr": "ML",
+            "fullForm": "Meghalaya",
+            "tokensList": [
+                "meghalaya"
+            ]
+        },
+        {
+            "abbr": "MZ",
+            "fullForm": "Mizoram",
+            "tokensList": [
+                "mizoram"
+            ]
+        },
+        {
+            "abbr": "NL",
+            "fullForm": "Nagaland",
+            "tokensList": [
+                "nagaland"
+            ]
+        },
+        {
+            "abbr": "OR",
+            "fullForm": "Odisha",
+            "tokensList": [
+                "odisha"
+            ]
+        },
+        {
+            "abbr": "PB",
+            "fullForm": "Punjab",
+            "tokensList": [
+                "punjab"
+            ]
+        },
+        {
+            "abbr": "RJ",
+            "fullForm": "Rajasthan",
+            "tokensList": [
+                "rajasthan"
+            ]
+        },
+        {
+            "abbr": "SK",
+            "fullForm": "Sikkim",
+            "tokensList": [
+                "sikkim"
+            ]
+        },
+        {
+            "abbr": "TN",
+            "fullForm": "Tamil Nadu",
+            "tokensList": [
+                "tamil",
+                "nadu"
+            ]
+        },
+        {
+            "abbr": "TG",
+            "fullForm": "Telangana",
+            "tokensList": [
+                "telangana"
+            ]
+        },
+        {
+            "abbr": "TR",
+            "fullForm": "Tripura",
+            "tokensList": [
+                "tripura"
+            ]
+        },
+        {
+            "abbr": "UT",
+            "fullForm": "Uttarakhand",
+            "tokensList": [
+                "uttarakhand"
+            ]
+        },
+        {
+            "abbr": "UP",
+            "fullForm": "Uttar Pradesh",
+            "tokensList": [
+                "uttar",
+                "pradesh"
+            ]
+        },
+        {
+            "abbr": "WB",
+            "fullForm": "West Bengal",
+            "tokensList": [
+                "west",
+                "bengal"
+            ]
+        },
+        {
+            "abbr": "AN",
+            "fullForm": "Andaman and Nicobar Islands",
+            "tokensList": [
+                "andaman",
+                "and",
+                "nicobar",
+                "islands"
+            ]
+        },
+        {
+            "abbr": "CH",
+            "fullForm": "Chandigarh",
+            "tokensList": [
+                "chandigarh"
+            ]
+        },
+        {
+            "abbr": "DN",
+            "fullForm": "Dadra and Nagar Haveli",
+            "tokensList": [
+                "dadra",
+                "and",
+                "nagar",
+                "haveli"
+            ]
+        },
+        {
+            "abbr": "DD",
+            "fullForm": "Daman and Diu",
+            "tokensList": [
+                "daman",
+                "and",
+                "diu"
+            ]
+        },
+        {
+            "abbr": "DL",
+            "fullForm": "Delhi",
+            "tokensList": [
+                "delhi"
+            ]
+        },
+        {
+            "abbr": "LD",
+            "fullForm": "Lakshadweep",
+            "tokensList": [
+                "lakshadweep"
+            ]
+        },
+        {
+            "abbr": "PY",
+            "fullForm": "Puducherry",
+            "tokensList": [
+                "puducherry"
+            ]
+        },
+        {
+            "abbr": "AP",
+            "fullForm": "Andhra Pradesh",
+            "tokensList": [
+                "andhra",
+                "pradesh"
+            ]
+        },
+        {
+            "abbr": "AR",
+            "fullForm": "Arunachal Pradesh",
+            "tokensList": [
+                "arunachal",
+                "pradesh"
+            ]
+        },
+        {
+            "abbr": "AS",
+            "fullForm": "Assam",
+            "tokensList": [
+                "assam"
+            ]
+        },
+        {
+            "abbr": "BR",
+            "fullForm": "Bihar",
+            "tokensList": [
+                "bihar"
+            ]
+        },
+        {
+            "abbr": "CT",
+            "fullForm": "Chhattisgarh",
+            "tokensList": [
+                "chhattisgarh"
+            ]
+        },
+        {
+            "abbr": "GA",
+            "fullForm": "Goa",
+            "tokensList": [
+                "goa"
+            ]
+        },
+        {
+            "abbr": "GJ",
+            "fullForm": "Gujarat",
+            "tokensList": [
+                "gujarat"
+            ]
+        },
+        {
+            "abbr": "HR",
+            "fullForm": "Haryana",
+            "tokensList": [
+                "haryana"
+            ]
+        },
+        {
+            "abbr": "HP",
+            "fullForm": "Himachal Pradesh",
+            "tokensList": [
+                "himachal",
+                "pradesh"
+            ]
+        },
+        {
+            "abbr": "JK",
+            "fullForm": "Jammu and Kashmir",
+            "tokensList": [
+                "jammu",
+                "and",
+                "kashmir"
+            ]
+        },
+        {
+            "abbr": "JH",
+            "fullForm": "Jharkhand",
+            "tokensList": [
+                "jharkhand"
+            ]
+        },
+        {
+            "abbr": "KA",
+            "fullForm": "Karnataka",
+            "tokensList": [
+                "karnataka"
+            ]
+        },
+        {
+            "abbr": "KL",
+            "fullForm": "Kerala",
+            "tokensList": [
+                "kerala"
+            ]
+        },
+        {
+            "abbr": "MP",
+            "fullForm": "Madhya Pradesh",
+            "tokensList": [
+                "madhya",
+                "pradesh"
+            ]
+        },
+        {
+            "abbr": "MH",
+            "fullForm": "Maharashtra",
+            "tokensList": [
+                "maharashtra"
+            ]
+        },
+        {
+            "abbr": "MN",
+            "fullForm": "Manipur",
+            "tokensList": [
+                "manipur"
+            ]
+        },
+        {
+            "abbr": "ML",
+            "fullForm": "Meghalaya",
+            "tokensList": [
+                "meghalaya"
+            ]
+        },
+        {
+            "abbr": "MZ",
+            "fullForm": "Mizoram",
+            "tokensList": [
+                "mizoram"
+            ]
+        },
+        {
+            "abbr": "NL",
+            "fullForm": "Nagaland",
+            "tokensList": [
+                "nagaland"
+            ]
+        },
+        {
+            "abbr": "OR",
+            "fullForm": "Odisha",
+            "tokensList": [
+                "odisha"
+            ]
+        },
+        {
+            "abbr": "PB",
+            "fullForm": "Punjab",
+            "tokensList": [
+                "punjab"
+            ]
+        },
+        {
+            "abbr": "RJ",
+            "fullForm": "Rajasthan",
+            "tokensList": [
+                "rajasthan"
+            ]
+        },
+        {
+            "abbr": "SK",
+            "fullForm": "Sikkim",
+            "tokensList": [
+                "sikkim"
+            ]
+        },
+        {
+            "abbr": "TN",
+            "fullForm": "Tamil Nadu",
+            "tokensList": [
+                "tamil",
+                "nadu"
+            ]
+        },
+        {
+            "abbr": "TG",
+            "fullForm": "Telangana",
+            "tokensList": [
+                "telangana"
+            ]
+        },
+        {
+            "abbr": "TR",
+            "fullForm": "Tripura",
+            "tokensList": [
+                "tripura"
+            ]
+        },
+        {
+            "abbr": "UT",
+            "fullForm": "Uttarakhand",
+            "tokensList": [
+                "uttarakhand"
+            ]
+        },
+        {
+            "abbr": "UP",
+            "fullForm": "Uttar Pradesh",
+            "tokensList": [
+                "uttar",
+                "pradesh"
+            ]
+        },
+        {
+            "abbr": "WB",
+            "fullForm": "West Bengal",
+            "tokensList": [
+                "west",
+                "bengal"
+            ]
+        },
+        {
+            "abbr": "AN",
+            "fullForm": "Andaman and Nicobar Islands",
+            "tokensList": [
+                "andaman",
+                "and",
+                "nicobar",
+                "islands"
+            ]
+        },
+        {
+            "abbr": "CH",
+            "fullForm": "Chandigarh",
+            "tokensList": [
+                "chandigarh"
+            ]
+        },
+        {
+            "abbr": "DN",
+            "fullForm": "Dadra and Nagar Haveli",
+            "tokensList": [
+                "dadra",
+                "and",
+                "nagar",
+                "haveli"
+            ]
+        },
+        {
+            "abbr": "DD",
+            "fullForm": "Daman and Diu",
+            "tokensList": [
+                "daman",
+                "and",
+                "diu"
+            ]
+        },
+        {
+            "abbr": "DL",
+            "fullForm": "Delhi",
+            "tokensList": [
+                "delhi"
+            ]
+        },
+        {
+            "abbr": "LD",
+            "fullForm": "Lakshadweep",
+            "tokensList": [
+                "lakshadweep"
+            ]
+        },
+        {
+            "abbr": "PY",
+            "fullForm": "Puducherry",
+            "tokensList": [
+                "puducherry"
+            ]
+        }
+    ]
+}
