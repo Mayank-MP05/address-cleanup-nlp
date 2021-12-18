@@ -1,0 +1,31 @@
+{
+    "addresses": [
+        {
+            "addressline1": "Flat no. 45, Millennium Heights apartment",
+            "addressline2": "2nd main, 2nd cross, Koramangala 8th block ",
+            "locality": "Koramangala",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "pincode": "560034",
+            "geocodes": "12.934533,77.626579"
+        },
+        {
+            "addressline1": "#57, Prestige Elite",
+            "addressline2": "4th phase, 2nd cross, JP Nagar",
+            "locality": "JP Nagar",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "pincode": "560078",
+            "geocodes": "12.964533,77.676579"
+        },
+        {
+            "addressline1": "Shoba apt,flat no 34",
+            "addressline2": "7th cross Malleswaram",
+            "locality": "Malleswaram",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "pincode": "560003",
+            "geocodes": "12.914233,77.606079"
+        }
+    ]
+}
